@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1088835787002",
+    "project_id": "findmycar-1b897",
+    "storage_bucket": "findmycar-1b897.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088835787002:android:f30987ce4865f699df9143",
+        "android_client_info": {
+          "package_name": "com.example.findmycarpractice"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDslKE92VvZl1KI-ka3cnNLwoDGdi5vOpc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

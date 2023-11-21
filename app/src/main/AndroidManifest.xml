@@ -21,6 +21,9 @@
         android:theme="@style/Theme.FindMyCarPractice"
         tools:targetApi="31">
         <activity
+            android:name=".MapActivity"
+            android:exported="false" />
+        <activity
             android:name=".CreateParkingActivity"
             android:exported="false" />
         <activity

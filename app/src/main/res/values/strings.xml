@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">FindMyCarPractice</string>
+    <string name="token_mapbox">pk.eyJ1IjoiZm9uY2UiLCJhIjoiY2xvdHkzdWNmMGVwajJpcWVkcGl5OGJsNyJ9.f_VKvCFXpSluVnabxlAx1Q</string>
 </resources>

@@ -30,8 +30,14 @@ android {
 }
 
 dependencies {
-    //maps
-    implementation 'com.google.android.gms:play-services-maps:17.0.1'
+    //mapbox
+    implementation 'com.mapbox.mapboxsdk:mapbox-android-sdk:6.0.1'
+    implementation 'com.mapbox.mapboxsdk:mapbox-android-plugin-locationlayer:0.5.0'
+//navegacion
+    implementation 'com.mapbox.mapboxsdk:mapbox-android-navigation:0.13.0'
+    implementation ('com.mapbox.mapboxsdk:mapbox-android-navigation-ui:0.13.0'){
+        transitive = true;
+    }
     //firebase
     implementation platform('com.google.firebase:firebase-bom:32.6.0')
     implementation 'com.google.firebase:firebase-database:20.3.0'
